@@ -22,11 +22,14 @@
 
                   <div style='margin:24px;font-size:12px;color:black;overflow-wrap: break-word;'>
                     Easiest way to get to know me is on youtube, pick a playlist, set playback to 2x!<br><br>
-                    <span><a href='https://www.youtube.com/channel/UC4kH4isGJvL2vWhH5JOWyVw/playlists' target='_blank'>Playlists</a></span><br>
-                    <span><a href='https://www.youtube.com/watch?v=NP1FFL8TeUA&list=PLFzhufYbYGVgkBGDaaaGQM9f5lrHRzDSe' target='_blank'>Project Showcases</a></span><br>
-                    <span><a href='https://www.youtube.com/watch?v=dfv1z8CHMwY&list=PLFzhufYbYGVioRvOdld-O6a3BHWVCTz8c' target='_blank'>Programming Concepts</a></span><br>
-                    <span><a href='https://www.youtube.com/watch?v=f2eAwpjB1Sc&list=PLFzhufYbYGVg19ids9l9A-V4pAi4KPLbd' target='_blank'>Architecture</a></span><br>
-                    <span><a href='https://www.youtube.com/watch?v=vxrxxvRw2RM&list=PLFzhufYbYGVhRIZK0KBircBQEtfXMJ5q4' target='_blank'>Research</a></span><br>
+                    <span style='font-weight:bold;'>Youtube</span>
+                    <ul>
+                      <li><span><a href='https://www.youtube.com/channel/UC4kH4isGJvL2vWhH5JOWyVw/playlists' target='_blank'>Playlists</a></span></li>
+                      <li><span><a href='https://www.youtube.com/watch?v=NP1FFL8TeUA&list=PLFzhufYbYGVgkBGDaaaGQM9f5lrHRzDSe' target='_blank'>Project Showcases</a></span></li>
+                      <li><span><a href='https://www.youtube.com/watch?v=dfv1z8CHMwY&list=PLFzhufYbYGVioRvOdld-O6a3BHWVCTz8c' target='_blank'>Programming Concepts</a></span></li>
+                      <li><span><a href='https://www.youtube.com/watch?v=f2eAwpjB1Sc&list=PLFzhufYbYGVg19ids9l9A-V4pAi4KPLbd' target='_blank'>Architecture</a></span></li>
+                      <li><span><a href='https://www.youtube.com/watch?v=vxrxxvRw2RM&list=PLFzhufYbYGVhRIZK0KBircBQEtfXMJ5q4' target='_blank'>Research</a></span></li>
+                    </ul>
                   </div>
 
                   <div class=gvt style='height:auto;width:calc(100% - 24px);--gr:1fr;--gc:56px auto 1fr;margin:32px 12px;'>
@@ -35,7 +38,7 @@
                   </div>
 
                   <div class=gvt style='height:auto;--gr:auto auto;--gc:auto 1fr auto;'>
-                    <span style='place-self:start;margin-left:24px;font-size:16px;font-weight:bold;'>Statically Typed Object Oriented Languages</span>
+                    <span style='place-self:start;margin-left:24px;font-size:16px;font-weight:bold;'>Statically Typed Object-Oriented Languages</span>
                     <span></span>
                     <span style='color:gray;margin-right:24px;font-size:12px;'>10 Years +</span>
                     <span style='place-self:start;color:gray;margin-left:24px;font-size:12px;'>C++, C#, Java</span>
@@ -47,19 +50,17 @@
                     Encryption, Hashing, Compression, Security, Networking, TCP, UDP, HTTPS, WebSockets, OpenSSL, IO, Memory Mapping, Applied Mathematics,
                     Error Correcting Codes, Finite Fields, Matrix Transformations, Waveform Isolation, Statistical Data Models, Lock Free Design, 
                     On Disk Data Structures, Filesystems, Databases, SQL
-                    <br><span style='font-size:18px;font-weight:bold;'>...</span>
-                  </div>
+                    <br><span style='font-size:18px;font-weight:bold;'>...</span> <br><br>
 
-                  <div class=gvt style='height:auto;--gr:auto auto;--gc:auto 1fr auto;'>
-                    <span style='place-self:start;margin-left:24px;font-size:16px;font-weight:bold;'>Test Driven Development</span>
-                    <span></span>
-                    <span style='color:gray;margin-right:24px;font-size:12px;'>10 Years +</span>
-                    <br><span style='place-self:start;color:gray;margin-left:24px;font-size:12px;'>...</span>
-                  </div>
-
-                  <div style='margin:24px;font-size:12px;color:black;overflow-wrap: break-word;'>
-                    Catch2
-                    <span style='font-size:18px;font-weight:bold;'>...</span>
+                    
+                    <span style='font-weight:bold;'>Open Source Resources</span>
+                    <ul>
+                      <li><span><a href='https://github.com/justdoityourself/minimalhttp' target='_blank'>Multi-Plexed Extensible Networking Library, TCP, HTTP</a></span></li>
+                      <li><span><a href='https://github.com/justdoityourself/dircopy' target='_blank'>Global Single Instance Directory Replication</a></span></li>
+                      <li><span><a href='https://github.com/justdoityourself/d88' target='_blank'>Encryption Algorithm and ECC Codes using novel finite field</a></span></li>
+                      <li><span><a href='https://github.com/justdoityourself/template_db' target='_blank'>Database written from the ground up in C++</a></span></li>
+                      <li><span><a href='https://github.com/justdoityourself' target='_blank'>More, start with api.* or benchmark.* for high level view...</a></span></li>
+                    </ul>
                   </div>
 
                   <div class=gvt style='height:auto;--gr:auto auto;--gc:auto 1fr auto;'>
@@ -72,41 +73,88 @@
                   <div style='margin:24px;font-size:12px;color:black;overflow-wrap: break-word;'>
                     VueJS, VueX, VueRouter, Components, Data Binding, Global Program States, JSON, Progressive Web Applications, 
                     Manifest, Open Graph, Twitter Cards, Service Worker, Offline Mode, Caching, Concurrency ( Worker Threads ), WebAssembly, 
-                    Emscripten, Async, Electron, Requests, WebRTC, WebSockets, Audio Video Recording, IndexedDB, Grids, Fetch, GET, POST, PUT, DELETE, NPM, Javascript Modules 
-                    <br><span style='font-size:18px;font-weight:bold;'>...</span>
+                    Emscripten, Async / Await, Electron, Requests, WebRTC, WebSockets, NPM, Audio Video Recording, IndexedDB, Grids, Fetch, GET, POST, PUT, DELETE, NPM, Javascript Modules 
+                    <br><span style='font-size:18px;font-weight:bold;'>...</span><br><br>
+
+                    <span style='font-weight:bold;'>Open Source Resources</span>
+                    <ul>
+                      <li><span><a href='https://github.com/justdoityourself/habitsmasher' target='_blank'>HabitSmasher</a></span></li>
+                      <li><span><a href='https://github.com/justdoityourself/resume2' target='_blank'>This Resume</a></span></li>
+                      <li><span><a href='https://math.d8data.io' target='_blank'>Research Site</a></span></li>
+                      <li><span><a href='https://echopractice.d8data.io' target='_blank'>EchoPractice</a></span></li>
+                      <li><span><a href='https://github.com/justdoityourself' target='_blank'>Stay tuned as I port more of my projects into open source...</a></span></li>
+                    </ul>
                   </div>
 
                   <div class=gvt style='height:auto;--gr:auto auto;--gc:auto 1fr auto;'>
                     <span style='place-self:start;margin-left:24px;font-size:16px;font-weight:bold;'>Back End / Web Develompent</span>
                     <span></span>
                     <span style='color:gray;margin-right:24px;font-size:12px;'>5 Years</span>
-                    <span style='place-self:start;color:gray;margin-left:24px;font-size:12px;'>NodeJS, Express ..., MongoDB, Python, Django</span>
+                    <span style='place-self:start;color:gray;margin-left:24px;font-size:12px;'>REST API, SQL, NoSQL</span>
                   </div>
 
                   <div style='margin:24px;font-size:12px;color:black;overflow-wrap: break-word;'>
-                    Docker, Load Balancing, Microservices, AWS
+                    NodeJS, Express, MongoDB, Python, Django, Docker, Load Balancing, Microservices, AWS, Redis, MySQL, .NetCore
+                    <br><span style='font-size:18px;font-weight:bold;'>...</span><br><br>
+
+                    <span style='font-weight:bold;'>Open Source Resources</span>
+                    <ul>
+                      <li><span><a href='https://github.com/justdoityourself/serve-static' target='_blank'>Optimize NodeJS Static Server</a></span></li>
+                      <li><span><a href='https://github.com/justdoityourself/send' target='_blank'>Optimize NodeJS Static Server</a></span></li>
+                      <li><span><a href='https://github.com/justdoityourself' target='_blank'>More on the way...</a></span></li>
+                    </ul>
                   </div>
 
-                  <div class=gvt style='height:auto;--gr:auto auto;--gc:auto 1fr auto;'>
+                  <!--<div class=gvt style='height:auto;--gr:auto auto;--gc:auto 1fr auto;'>
                     <span style='place-self:start;margin-left:24px;font-size:16px;font-weight:bold;'>Embedded Development / Internet of Things</span>
                     <span></span>
                     <span style='color:gray;margin-right:24px;font-size:12px;'>4 Years</span>
-                    <span style='place-self:start;color:gray;margin-left:24px;font-size:12px;'>NodeJS, Express ..., MongoDB, Python, Django</span>
+                    <span style='place-self:start;color:gray;margin-left:24px;font-size:12px;'>TODO</span>
                   </div>
 
                   <div style='margin:24px;font-size:12px;color:black;overflow-wrap: break-word;'>
-                    Docker, Load Balancing, Microservices, AWS
+                    TODO
+                  </div>-->
+
+                  <div class=gvt style='height:auto;--gr:auto auto;--gc:auto 1fr auto;'>
+                    <span style='place-self:start;margin-left:24px;font-size:16px;font-weight:bold;'>Test Driven Development</span>
+                    <span></span>
+                    <span style='color:gray;margin-right:24px;font-size:12px;'>10 Years +</span>
+                    <span style='place-self:start;color:gray;margin-left:24px;font-size:12px;'>Code doesn't count until it is tested</span>
+                  </div>
+
+                  <div style='margin:24px;font-size:12px;color:black;overflow-wrap: break-word;'>
+                    You haven't written any code until the tests are complete. So start with tests instead. Catch2 for C++, Mocha for JS, MSTest or NUnit in C#, you know the drill
+                    the best first question I have for most companies, what is your test framework?<br><br>
+
+                    <span style='font-weight:bold;'>Open Source Resources</span>
+                    <ul>
+                      <li><span><a href='https://github.com/justdoityourself/scalar_t/blob/master/scalar_t/test.hpp' target='_blank'>https://github.com/justdoityourself/scalar_t/blob/master/scalar_t/test.hpp</a></span></li>
+                      <li><span><a href='https://github.com/justdoityourself/dircopy/blob/master/dircopy/test.hpp' target='_blank'>https://github.com/justdoityourself/dircopy/blob/master/dircopy/test.hpp</a></span></li>
+                      <li><span><a href='https://github.com/justdoityourself/d88/blob/master/d88/test.hpp' target='_blank'>https://github.com/justdoityourself/d88/blob/master/d88/test.hpp</a></span></li>
+                      <li><span><a href='https://github.com/justdoityourself/blockstore/blob/master/volstore/test.hpp' target='_blank'>https://github.com/justdoityourself/blockstore/blob/master/volstore/test.hpp</a></span></li>
+                      <li><span><a href='https://github.com/justdoityourself' target='_blank'>More, see test.* in repositories...</a></span></li>
+                    </ul>
                   </div>
 
                   <div class=gvt style='height:auto;--gr:auto auto;--gc:auto 1fr auto;'>
                     <span style='place-self:start;margin-left:24px;font-size:16px;font-weight:bold;'>Test Automation</span>
                     <span></span>
-                    <span style='color:gray;margin-right:24px;font-size:12px;'>8 Years</span>
-                    <span style='place-self:start;color:gray;margin-left:24px;font-size:12px;'>...</span>
+                    <span style='color:gray;margin-right:24px;font-size:12px;'>4 Years</span>
+                    <span style='place-self:start;color:gray;margin-left:24px;font-size:12px;'>Selenium</span>
                   </div>
 
                   <div style='margin:24px;font-size:12px;color:black;overflow-wrap: break-word;'>
-                    ...
+                    WebDriver, C# bindings, Python Bindings, XPATH, ID, Grid, Assertions, Element / Navigation / Browser Commands
+
+                    <br><span style='font-size:18px;font-weight:bold;'>...</span><br><br>
+
+                    <span style='font-weight:bold;'>Open Source Resources</span>
+                    <ul>
+                      <li><span><a href='https://github.com/justdoityourself/fca_ep_test' target='_blank'>https://github.com/justdoityourself/fca_ep_test</a></span></li>
+                      <li><span><a href='https://github.com/justdoityourself/tuesday-7' target='_blank'>https://github.com/justdoityourself/tuesday-7</a></span></li>
+                      <li><span><a href='https://github.com/justdoityourself' target='_blank'>...</a></span></li>
+                    </ul>
                   </div>
 
                   <div class=gvt style='height:auto;width:calc(100% - 24px);--gr:1fr;--gc:56px auto 1fr;margin:32px 12px;'>
@@ -141,10 +189,10 @@
                   </div>
 
                   <div style='margin:24px;font-size:12px;color:black;overflow-wrap: break-word;'>
-                    I'm happy working with a team, large or small in almost any capacity. I bring prespective and innovative presure where ever I land.
-                    And have the restraint and experience to not dig too deep, so thinks keep on track. I truely enjoy all software positions anywhere on the stack.
-                    The most imporant part is that we are solving an important problem along the way. I do my best work in a partial remote environment.
-                    Some days in office to colaborate, other days out of office for maximum focus.
+                    I'm happy working with a team, large or small in almost any capacity. I bring perspective and innovative pressure where ever I land.
+                    And have the restraint and experience to not dig too deep, so thinks keep on track. I truly enjoy all software positions anywhere on the stack.
+                    The most important part is that we are solving an important problem along the way. I do my best work in a partial remote environment.
+                    Some days in office to collaborate, other days out of office for maximum focus.
                   </div>
 
                   <div class=gvt style='height:auto;width:calc(100% - 24px);--gr:1fr;--gc:56px auto 1fr;margin:32px 12px;'>
@@ -160,7 +208,7 @@
                   </div>
 
                   <div style='margin:24px;font-size:12px;color:black;overflow-wrap: break-word;'>
-                    There are still problems to solve, nessesary innovations to implement. With all the powerful frameworks, cloud architectures
+                    There are still problems to solve, necessary innovations to implement. With all the powerful frameworks, cloud architectures
                     and elaborate technologies we have, let's never lose track of the basics, First Principles thinking is the only way forward that doesn't get 
                     us stuck in a mountain of technical debt and tech stack that prevents us from solving problems we encounter. Let's always keep a close eye
                     on our entire tech stack, keeping it secure, efficient and easy to maintain. 
@@ -190,7 +238,7 @@
                   </div>
 
                   <div style='margin:24px;font-size:12px;color:black;overflow-wrap: break-word;'>
-                    Implement a fullstack progresive web app using VueJS, VueX, VueRouter, Vuetify, NodeJS and MongoDB. App to facilitate
+                    Implement a fullstack progressive web app using VueJS, VueX, VueRouter, Vuetify, NodeJS and MongoDB. App to facilitate
                     music practice with youtube videos. <span><a href='https://echopractice.d8data.io' target='_blank'>EchoPractice</a></span>
                   </div>
 
@@ -202,9 +250,9 @@
                   </div>
 
                   <div style='margin:24px;font-size:12px;color:black;overflow-wrap: break-word;'>
-                    Update, Improve and Maintain a C based linux service which provided antivirus capabilities inside of PHP. Facilitate
-                    comminication from these AV Services and AWS based cloud service. HTTPS, TCP, UDP, Websocket protocols. Docker containers, micro services.
-                    Linux cross distrobution release.
+                    Update, Improve and Maintain a C based Linux service which provided antivirus capabilities inside of PHP. Facilitate
+                    communication from these AV Services and AWS based cloud service. HTTPS, TCP, UDP, Websocket protocols. Docker containers, micro services.
+                    Linux cross distribution release.
                   </div>
 
                   <div class=gvt style='height:auto;--gr:auto auto;--gc:auto 1fr auto;'>
@@ -239,7 +287,7 @@
 
                   <div style='margin:24px;font-size:12px;color:black;overflow-wrap: break-word;'>
                     Work with the CTO and technical founder to implement message queue and microservice architecture. Implement UDP Protocols
-                    for communicating with low power emmbeded devices. Optimize database access and API communications.
+                    for communicating with low power embedded devices. Optimize database access and API communications.
                   </div>
 
                   <div class=gvt style='height:auto;--gr:auto auto;--gc:auto 1fr auto;'>
@@ -251,7 +299,7 @@
 
                   <div style='margin:24px;font-size:12px;color:black;overflow-wrap: break-word;'>
                     Founded Company, developed D8Trace. A data engine for keeping track of all the data on a company network, implementing a security layer. Developed the ability
-                    for company wide audits of data, generate alerts when files are moved to unauthorized computers or found outside their appropriate context.
+                    for companywide audits of data, generate alerts when files are moved to unauthorized computers or found outside their appropriate context.
                   </div>
 
                   <div class=gvt style='height:auto;--gr:auto auto;--gc:auto 1fr auto;'>
@@ -263,8 +311,8 @@
 
                   <div style='margin:24px;font-size:12px;color:black;overflow-wrap: break-word;'>
                     Research and Develop new and innovative backup industry technology. Work with patent attorneys and the software architect
-                    to create company IP. Develop Network Protocols for transportation of multi terabyte data sets. Develop Databases for catologing
-                    and removing data duplication in multi terabyte data sets. Develop techniques to prevent data corruption and recover from data loss.
+                    to create company IP. Develop Network Protocols for transportation of multi-terabyte data sets. Develop Databases for cataloging 
+                    and removing data duplication in multi-terabyte data sets. Develop techniques to prevent data corruption and recover from data loss.
                   </div>
 
                   <div class=gvt style='height:auto;--gr:auto auto;--gc:auto 1fr auto;'>
@@ -276,7 +324,7 @@
 
                   <div style='margin:24px;font-size:12px;color:black;overflow-wrap: break-word;'>
                     Using C++ and QT targeting both Windows And Linux Environments. I ported the project below to a cross-platform architecture.
-                    Dealing with different linux distro and packages. Writing code for minimal boot environments. Linux NTFS drivers and registry 
+                    Dealing with different Linux distro and packages. Writing code for minimal boot environments. Linux NTFS drivers and registry 
                     editor libraries. UI Implementations with QT. Linux Boot Loader technologies.
                   </div>
 
@@ -288,7 +336,7 @@
                   </div>
 
                   <div style='margin:24px;font-size:12px;color:black;overflow-wrap: break-word;'>
-                    Using C++, MFC and the Windows Win32 API, I designed and developed a program that huristically repaired damage to a windows system 
+                    Using C++, MFC and the Windows Win32 API, I designed and developed a program that heuristically  repaired damage to a windows system 
                     that was preventing it from booting. This required manipulation of the Registry, System Drivers, Boot Sectors and boot loader files.
                     Support for both MBR and GPT, boot.ini and ntldr and later bootmgr and BCD database. Driver installation via INF files.
                     Knowledge of Windows driver architecture. Driver Classes, Upper and Lower Filters. Blue Screen Troubleshooting. Crash Dump Debugging.
