@@ -3,7 +3,7 @@
     <v-content>
       <div class=gvt>
         <div class=gvt style='max-width:800px;'>
-          <v-card style='width:100%;height:95%;'>
+          <v-card style='width:100%;height:calc(100% - 16px);'>
             <div class=gvt style='--gr:1fr;--gc:3fr 1fr;'>
               <div class=gvt style='--gr:1fr;--gc:1fr;position:relative;'>
                 <div style='background:white;position:absolute;height:100%;width:100%;overflow:auto;'>
@@ -20,7 +20,7 @@
                     <span style='place-self:start;color:gray;margin-left:24px;font-size:12px;'>Over 70 Videos and growing</span>
                   </div>
 
-                  <div style='margin:26px;font-size:12px;color:black;overflow-wrap: break-word;'>
+                  <div style='margin:24px;font-size:12px;color:black;overflow-wrap: break-word;'>
                     Easiest way to get to know me is on youtube, pick a playlist, set playback to 2x!<br><br>
                     <span><a href='https://www.youtube.com/channel/UC4kH4isGJvL2vWhH5JOWyVw/playlists' target='_blank'>Playlists</a></span><br>
                     <span><a href='https://www.youtube.com/watch?v=NP1FFL8TeUA&list=PLFzhufYbYGVgkBGDaaaGQM9f5lrHRzDSe' target='_blank'>Project Showcases</a></span><br>
@@ -41,33 +41,72 @@
                     <span style='place-self:start;color:gray;margin-left:24px;font-size:12px;'>C++, C#, Java</span>
                   </div>
 
-                  <div style='margin:26px;font-size:12px;color:black;overflow-wrap: break-word;'>
-                    Classes, Inheritance, Interfaces, Generics / Template Programming, Stack vs Heap, Memory Management
+                  <div style='margin:24px;font-size:12px;color:black;overflow-wrap: break-word;'>
+                    Classes, Inheritance, Interfaces, Generics / Template Programming, Memory Management, Debugging, Troubleshooting, Data Structures, 
+                    Compilers, GCC, LLVM, Visual Studio, QT, Services, Processes, Libraries, Profiling, Optimization, Concurrency, Algorithm Design, 
+                    Encryption, Hashing, Compression, Security, Networking, TCP, UDP, HTTPS, WebSockets, OpenSSL, IO, Memory Mapping, Applied Mathematics,
+                    Error Correcting Codes, Finite Fields, Matrix Transformations, Waveform Isolation, Statistical Data Models, Lock Free Design, 
+                    On Disk Data Structures, Filesystems, Databases, SQL
+                    <br><span style='font-size:18px;font-weight:bold;'>...</span>
+                  </div>
+
+                  <div class=gvt style='height:auto;--gr:auto auto;--gc:auto 1fr auto;'>
+                    <span style='place-self:start;margin-left:24px;font-size:16px;font-weight:bold;'>Test Driven Development</span>
+                    <span></span>
+                    <span style='color:gray;margin-right:24px;font-size:12px;'>10 Years +</span>
+                    <br><span style='place-self:start;color:gray;margin-left:24px;font-size:12px;'>...</span>
+                  </div>
+
+                  <div style='margin:24px;font-size:12px;color:black;overflow-wrap: break-word;'>
+                    Catch2
                     <span style='font-size:18px;font-weight:bold;'>...</span>
                   </div>
 
                   <div class=gvt style='height:auto;--gr:auto auto;--gc:auto 1fr auto;'>
                     <span style='place-self:start;margin-left:24px;font-size:16px;font-weight:bold;'>Front End / Web Develompent</span>
                     <span></span>
-                    <span style='color:gray;margin-right:24px;font-size:12px;'>5 Years +</span>
+                    <span style='color:gray;margin-right:24px;font-size:12px;'>5 Years</span>
                     <span style='place-self:start;color:gray;margin-left:24px;font-size:12px;'>HTTP, HTML, CSS, Javascript | Typescript</span>
                   </div>
 
-                  <div style='margin:26px;font-size:12px;color:black;overflow-wrap: break-word;'>
-                    VueJS, VueX, VueRouter, Components, Data Binding, Global Program States, Progressive Web Applications, 
+                  <div style='margin:24px;font-size:12px;color:black;overflow-wrap: break-word;'>
+                    VueJS, VueX, VueRouter, Components, Data Binding, Global Program States, JSON, Progressive Web Applications, 
                     Manifest, Open Graph, Twitter Cards, Service Worker, Offline Mode, Caching, Concurrency ( Worker Threads ), WebAssembly, 
-                    Emscripten, Async, Requests, Fetch, GET, POST, PUT, DELETE, NPM, Javascript Modules <span style='font-size:18px;font-weight:bold;'>...</span>
+                    Emscripten, Async, Electron, Requests, WebRTC, WebSockets, Audio Video Recording, IndexedDB, Grids, Fetch, GET, POST, PUT, DELETE, NPM, Javascript Modules 
+                    <br><span style='font-size:18px;font-weight:bold;'>...</span>
                   </div>
 
                   <div class=gvt style='height:auto;--gr:auto auto;--gc:auto 1fr auto;'>
                     <span style='place-self:start;margin-left:24px;font-size:16px;font-weight:bold;'>Back End / Web Develompent</span>
                     <span></span>
-                    <span style='color:gray;margin-right:24px;font-size:12px;'>5 Years +</span>
+                    <span style='color:gray;margin-right:24px;font-size:12px;'>5 Years</span>
                     <span style='place-self:start;color:gray;margin-left:24px;font-size:12px;'>NodeJS, Express ..., MongoDB, Python, Django</span>
                   </div>
 
-                  <div style='margin:26px;font-size:12px;color:black;overflow-wrap: break-word;'>
+                  <div style='margin:24px;font-size:12px;color:black;overflow-wrap: break-word;'>
                     Docker, Load Balancing, Microservices, AWS
+                  </div>
+
+                  <div class=gvt style='height:auto;--gr:auto auto;--gc:auto 1fr auto;'>
+                    <span style='place-self:start;margin-left:24px;font-size:16px;font-weight:bold;'>Embedded Development / Internet of Things</span>
+                    <span></span>
+                    <span style='color:gray;margin-right:24px;font-size:12px;'>4 Years</span>
+                    <span style='place-self:start;color:gray;margin-left:24px;font-size:12px;'>NodeJS, Express ..., MongoDB, Python, Django</span>
+                  </div>
+
+                  <div style='margin:24px;font-size:12px;color:black;overflow-wrap: break-word;'>
+                    Docker, Load Balancing, Microservices, AWS
+                  </div>
+
+                  <div class=gvt style='height:auto;--gr:auto auto;--gc:auto 1fr auto;'>
+                    <span style='place-self:start;margin-left:24px;font-size:16px;font-weight:bold;'>Test Automation</span>
+                    <span></span>
+                    <span style='color:gray;margin-right:24px;font-size:12px;'>8 Years</span>
+                    <span style='place-self:start;color:gray;margin-left:24px;font-size:12px;'>...</span>
+                  </div>
+
+                  <div style='margin:24px;font-size:12px;color:black;overflow-wrap: break-word;'>
+                    ...
                   </div>
 
                   <div class=gvt style='height:auto;width:calc(100% - 24px);--gr:1fr;--gc:56px auto 1fr;margin:32px 12px;'>
@@ -75,14 +114,196 @@
                     <span style='color:#35869A;font-size:24px;font-weight:bold;'>Career</span>
                   </div>
 
+                  <div class=gvt style='height:auto;--gr:auto auto;--gc:auto 1fr auto;'>
+                    <span style='place-self:start;margin-left:24px;font-size:16px;font-weight:bold;'>About Me</span>
+                    <span></span>
+                    <span style='color:gray;margin-right:24px;font-size:12px;'>Technology Polymath</span>
+                    <span style='place-self:start;color:gray;margin-left:24px;font-size:12px;'>Fullstack, Bare-Metal to Front End</span>
+                  </div>
+
+                  <div style='margin:24px;font-size:12px;color:black;overflow-wrap: break-word;'>
+                    In middle school, I discovered C/C++ and began learning to programming. My curiosity lead me to even lower level programming: machine code, interrupts and bootloaders! As I just wasn't satisfied to just read about things.
+
+                    I was content to write embedded and platform service code for years. But several years ago it became apparent to me that programming was not just a single language or domain and it was dynamic and ever changing.
+
+                    I decided to leave behind my preferences and habits and embrace the evolution of technology. This was not an event, but the beginning of a process.
+
+                    I love to keep up to date with all the latest developments in computer science in the form of new Programming Languages, Frameworks and Standards.
+
+                    From Machine Code to Javascript, Embedded to Front End... I've got you covered.
+                  </div>
+
+                  <div class=gvt style='height:auto;--gr:auto auto;--gc:auto 1fr auto;'>
+                    <span style='place-self:start;margin-left:24px;font-size:16px;font-weight:bold;'>Roles</span>
+                    <span></span>
+                    <span style='color:gray;margin-right:24px;font-size:12px;'>Software Engineering Forever</span>
+                    <span style='place-self:start;color:gray;margin-left:24px;font-size:12px;'>In the Trenches</span>
+                  </div>
+
+                  <div style='margin:24px;font-size:12px;color:black;overflow-wrap: break-word;'>
+                    I'm happy working with a team, large or small in almost any capacity. I bring prespective and innovative presure where ever I land.
+                    And have the restraint and experience to not dig too deep, so thinks keep on track. I truely enjoy all software positions anywhere on the stack.
+                    The most imporant part is that we are solving an important problem along the way. I do my best work in a partial remote environment.
+                    Some days in office to colaborate, other days out of office for maximum focus.
+                  </div>
+
                   <div class=gvt style='height:auto;width:calc(100% - 24px);--gr:1fr;--gc:56px auto 1fr;margin:32px 12px;'>
                     <v-icon size=36 color="#35869A">mdi-compass</v-icon>
                     <span style='color:#35869A;font-size:24px;font-weight:bold;'>Philosophy</span>
                   </div>
 
+                  <div class=gvt style='height:auto;--gr:auto auto;--gc:auto 1fr auto;'>
+                    <span style='place-self:start;margin-left:24px;font-size:16px;font-weight:bold;'>Software Engineering</span>
+                    <span></span>
+                    <span style='color:gray;margin-right:24px;font-size:12px;'>We're not there yet!</span>
+                    <span style='place-self:start;color:gray;margin-left:24px;font-size:12px;'>We've come a long way...</span>
+                  </div>
+
+                  <div style='margin:24px;font-size:12px;color:black;overflow-wrap: break-word;'>
+                    There are still problems to solve, nessesary innovations to implement. With all the powerful frameworks, cloud architectures
+                    and elaborate technologies we have, let's never lose track of the basics, First Principles thinking is the only way forward that doesn't get 
+                    us stuck in a mountain of technical debt and tech stack that prevents us from solving problems we encounter. Let's always keep a close eye
+                    on our entire tech stack, keeping it secure, efficient and easy to maintain. 
+                  </div>
+
                   <div class=gvt style='height:auto;width:calc(100% - 24px);--gr:1fr;--gc:56px auto 1fr;margin:32px 12px;'>
                     <v-icon size=36 color="#35869A">mdi-history</v-icon>
                     <span style='color:#35869A;font-size:24px;font-weight:bold;'>History</span>
+                  </div>
+
+                  <div class=gvt style='height:auto;--gr:auto auto;--gc:auto 1fr auto;'>
+                    <span style='place-self:start;margin-left:24px;font-size:16px;font-weight:bold;'>Senior Software Engineer</span>
+                    <span></span>
+                    <span style='color:gray;margin-right:24px;font-size:12px;'>2020 - Present</span>
+                    <span style='place-self:start;color:gray;margin-left:24px;font-size:12px;'>D8DataWorks</span>
+                  </div>
+
+                  <div style='margin:24px;font-size:12px;color:black;overflow-wrap: break-word;'>
+                    Document and Port D8DataWorks technology, research and source code to an open source model.
+                  </div>
+
+                  <div class=gvt style='height:auto;--gr:auto auto;--gc:auto 1fr auto;'>
+                    <span style='place-self:start;margin-left:24px;font-size:16px;font-weight:bold;'>Fullstack Engineer</span>
+                    <span></span>
+                    <span style='color:gray;margin-right:24px;font-size:12px;'>2019 - 2020 ( CONTRACT )</span>
+                    <span style='place-self:start;color:gray;margin-left:24px;font-size:12px;'>FirstChairAnalytics</span>
+                  </div>
+
+                  <div style='margin:24px;font-size:12px;color:black;overflow-wrap: break-word;'>
+                    Implement a fullstack progresive web app using VueJS, VueX, VueRouter, Vuetify, NodeJS and MongoDB. App to facilitate
+                    music practice with youtube videos. <span><a href='https://echopractice.d8data.io' target='_blank'>EchoPractice</a></span>
+                  </div>
+
+                  <div class=gvt style='height:auto;--gr:auto auto;--gc:auto 1fr auto;'>
+                    <span style='place-self:start;margin-left:24px;font-size:16px;font-weight:bold;'>Senior Software Engineer</span>
+                    <span></span>
+                    <span style='color:gray;margin-right:24px;font-size:12px;'>2018 - 2019 ( CONTRACT )</span>
+                    <span style='place-self:start;color:gray;margin-left:24px;font-size:12px;'>Monarx</span>
+                  </div>
+
+                  <div style='margin:24px;font-size:12px;color:black;overflow-wrap: break-word;'>
+                    Update, Improve and Maintain a C based linux service which provided antivirus capabilities inside of PHP. Facilitate
+                    comminication from these AV Services and AWS based cloud service. HTTPS, TCP, UDP, Websocket protocols. Docker containers, micro services.
+                    Linux cross distrobution release.
+                  </div>
+
+                  <div class=gvt style='height:auto;--gr:auto auto;--gc:auto 1fr auto;'>
+                    <span style='place-self:start;margin-left:24px;font-size:16px;font-weight:bold;'>Senior Software Engineer</span>
+                    <span></span>
+                    <span style='color:gray;margin-right:24px;font-size:12px;'>2017 - 2018 ( CONTRACT )</span>
+                    <span style='place-self:start;color:gray;margin-left:24px;font-size:12px;'>SecureNet</span>
+                  </div>
+
+                  <div style='margin:24px;font-size:12px;color:black;overflow-wrap: break-word;'>
+                    Implement web based security video stream relay. Write integration code on Tyco and Nortec security panels. Integrate
+                    with HTTPS/REST, TCP and UDP based Services. Message Queue Internet of Things architecture. AWS Platform. Nodejs, C++ WebRTC, RabbitMQ.
+                  </div>
+
+                  <div class=gvt style='height:auto;--gr:auto auto;--gc:auto 1fr auto;'>
+                    <span style='place-self:start;margin-left:24px;font-size:16px;font-weight:bold;'>Principle Software Engineer</span>
+                    <span></span>
+                    <span style='color:gray;margin-right:24px;font-size:12px;'>2017 - 2018</span>
+                    <span style='place-self:start;color:gray;margin-left:24px;font-size:12px;'>D8DataWorks</span>
+                  </div>
+
+                  <div style='margin:24px;font-size:12px;color:black;overflow-wrap: break-word;'>
+                    Implement a web based file transfer protocol, remote management and storage system using WebAssembly, WebRTC, NodeJS and Electron.
+                  </div>
+
+                  <div class=gvt style='height:auto;--gr:auto auto;--gc:auto 1fr auto;'>
+                    <span style='place-self:start;margin-left:24px;font-size:16px;font-weight:bold;'>Senior Software Engineer</span>
+                    <span></span>
+                    <span style='color:gray;margin-right:24px;font-size:12px;'>2015 - 2016 ( CONTRACT )</span>
+                    <span style='place-self:start;color:gray;margin-left:24px;font-size:12px;'>SecureNet</span>
+                  </div>
+
+                  <div style='margin:24px;font-size:12px;color:black;overflow-wrap: break-word;'>
+                    Work with the CTO and technical founder to implement message queue and microservice architecture. Implement UDP Protocols
+                    for communicating with low power emmbeded devices. Optimize database access and API communications.
+                  </div>
+
+                  <div class=gvt style='height:auto;--gr:auto auto;--gc:auto 1fr auto;'>
+                    <span style='place-self:start;margin-left:24px;font-size:16px;font-weight:bold;'>Principle Software Engineer</span>
+                    <span></span>
+                    <span style='color:gray;margin-right:24px;font-size:12px;'>2013 - 2015</span>
+                    <span style='place-self:start;color:gray;margin-left:24px;font-size:12px;'>D8DataWorks</span>
+                  </div>
+
+                  <div style='margin:24px;font-size:12px;color:black;overflow-wrap: break-word;'>
+                    Founded Company, developed D8Trace. A data engine for keeping track of all the data on a company network, implementing a security layer. Developed the ability
+                    for company wide audits of data, generate alerts when files are moved to unauthorized computers or found outside their appropriate context.
+                  </div>
+
+                  <div class=gvt style='height:auto;--gr:auto auto;--gc:auto 1fr auto;'>
+                    <span style='place-self:start;margin-left:24px;font-size:16px;font-weight:bold;'>Senior Software Engineer</span>
+                    <span></span>
+                    <span style='color:gray;margin-right:24px;font-size:12px;'>2010 - 2013</span>
+                    <span style='place-self:start;color:gray;margin-left:24px;font-size:12px;'>StorageCraft</span>
+                  </div>
+
+                  <div style='margin:24px;font-size:12px;color:black;overflow-wrap: break-word;'>
+                    Research and Develop new and innovative backup industry technology. Work with patent attorneys and the software architect
+                    to create company IP. Develop Network Protocols for transportation of multi terabyte data sets. Develop Databases for catologing
+                    and removing data duplication in multi terabyte data sets. Develop techniques to prevent data corruption and recover from data loss.
+                  </div>
+
+                  <div class=gvt style='height:auto;--gr:auto auto;--gc:auto 1fr auto;'>
+                    <span style='place-self:start;margin-left:24px;font-size:16px;font-weight:bold;'>Software Engineer</span>
+                    <span></span>
+                    <span style='color:gray;margin-right:24px;font-size:12px;'>2010 - 2011</span>
+                    <span style='place-self:start;color:gray;margin-left:24px;font-size:12px;'>StorageCraft</span>
+                  </div>
+
+                  <div style='margin:24px;font-size:12px;color:black;overflow-wrap: break-word;'>
+                    Using C++ and QT targeting both Windows And Linux Environments. I ported the project below to a cross-platform architecture.
+                    Dealing with different linux distro and packages. Writing code for minimal boot environments. Linux NTFS drivers and registry 
+                    editor libraries. UI Implementations with QT. Linux Boot Loader technologies.
+                  </div>
+
+                  <div class=gvt style='height:auto;--gr:auto auto;--gc:auto 1fr auto;'>
+                    <span style='place-self:start;margin-left:24px;font-size:16px;font-weight:bold;'>Software Engineer Intern</span>
+                    <span></span>
+                    <span style='color:gray;margin-right:24px;font-size:12px;'>2007 - 2008</span>
+                    <span style='place-self:start;color:gray;margin-left:24px;font-size:12px;'>StorageCraft</span>
+                  </div>
+
+                  <div style='margin:24px;font-size:12px;color:black;overflow-wrap: break-word;'>
+                    Using C++, MFC and the Windows Win32 API, I designed and developed a program that huristically repaired damage to a windows system 
+                    that was preventing it from booting. This required manipulation of the Registry, System Drivers, Boot Sectors and boot loader files.
+                    Support for both MBR and GPT, boot.ini and ntldr and later bootmgr and BCD database. Driver installation via INF files.
+                    Knowledge of Windows driver architecture. Driver Classes, Upper and Lower Filters. Blue Screen Troubleshooting. Crash Dump Debugging.
+                  </div>
+
+                  <div class=gvt style='height:auto;--gr:auto auto;--gc:auto 1fr auto;'>
+                    <span style='place-self:start;margin-left:24px;font-size:16px;font-weight:bold;'>QA Engineering</span>
+                    <span></span>
+                    <span style='color:gray;margin-right:24px;font-size:12px;'>2006 - 2007</span>
+                    <span style='place-self:start;color:gray;margin-left:24px;font-size:12px;'>StorageCraft</span>
+                  </div>
+
+                  <div style='margin:24px;font-size:12px;color:black;overflow-wrap: break-word;'>
+                    Manual Testing of a Windows based disk backup product. Write and Update test matrices. Execute Testing
+                    for each build. Document and report bugs, communicate with software engineers about details. Validate fixes.
                   </div>
 
                 </div>
@@ -102,7 +323,7 @@
                         <div style='width:100%;text-align:left;font-weight:bold;color:white;margin-bottom:8px;'>
                           Contact
                         </div>
-                        <div class=gvt style='--gr:1fr;--gc: 40px auto 1fr;margin-bottom:16px;margin-top:32px;'>
+                        <div class=gvt style='--gr:1fr;--gc: 40px auto 1fr;margin-bottom:16px;margin-top:8px;'>
                           <v-icon color=white>mdi-email</v-icon> 
                           <span style='font-size:14px;'>agardnerut@gmail.com</span>
                         </div>
