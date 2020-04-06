@@ -64,7 +64,7 @@
                   </div>
 
                   <div class=gvt style='height:auto;--gr:auto auto;--gc:auto 1fr auto;'>
-                    <span style='place-self:start;margin-left:24px;font-size:16px;font-weight:bold;'>Front End / Web Develompent</span>
+                    <span style='place-self:start;margin-left:24px;font-size:16px;font-weight:bold;'>Front End / Web Development</span>
                     <span></span>
                     <span style='color:gray;margin-right:24px;font-size:12px;'>5 Years</span>
                     <span style='place-self:start;color:gray;margin-left:24px;font-size:12px;'>HTTP, HTML, CSS, Javascript | Typescript</span>
@@ -87,7 +87,7 @@
                   </div>
 
                   <div class=gvt style='height:auto;--gr:auto auto;--gc:auto 1fr auto;'>
-                    <span style='place-self:start;margin-left:24px;font-size:16px;font-weight:bold;'>Back End / Web Develompent</span>
+                    <span style='place-self:start;margin-left:24px;font-size:16px;font-weight:bold;'>Back End / Web Development</span>
                     <span></span>
                     <span style='color:gray;margin-right:24px;font-size:12px;'>5 Years</span>
                     <span style='place-self:start;color:gray;margin-left:24px;font-size:12px;'>REST API, SQL, NoSQL</span>
@@ -170,9 +170,9 @@
                   </div>
 
                   <div style='margin:24px;font-size:12px;color:black;overflow-wrap: break-word;'>
-                    In middle school, I discovered C/C++ and began learning to programming. My curiosity lead me to even lower level programming: machine code, interrupts and bootloaders! As I just wasn't satisfied to just read about things.
+                    In middle school, I discovered C/C++ and began learning to programming. My curiosity led me to even lower level programming: machine code, interrupts and bootloaders! As I just wasn't satisfied to just read about things.
 
-                    I was content to write embedded and platform service code for years. But several years ago it became apparent to me that programming was not just a single language or domain and it was dynamic and ever changing.
+                    I was content to write embedded and platform service code for years. But several years ago, it became apparent to me that programming was not just a single language or domain and it was dynamic and ever changing.
 
                     I decided to leave behind my preferences and habits and embrace the evolution of technology. This was not an event, but the beginning of a process.
 
@@ -190,7 +190,7 @@
 
                   <div style='margin:24px;font-size:12px;color:black;overflow-wrap: break-word;'>
                     I'm happy working with a team, large or small in almost any capacity. I bring perspective and innovative pressure where ever I land.
-                    And have the restraint and experience to not dig too deep, so thinks keep on track. I truly enjoy all software positions anywhere on the stack.
+                    And have the restraint and experience to not dig too deep, so things keep on track. I truly enjoy all software positions anywhere on the stack.
                     The most important part is that we are solving an important problem along the way. I do my best work in a partial remote environment.
                     Some days in office to collaborate, other days out of office for maximum focus.
                   </div>
@@ -263,7 +263,7 @@
                   </div>
 
                   <div style='margin:24px;font-size:12px;color:black;overflow-wrap: break-word;'>
-                    Implement web based security video stream relay. Write integration code on Tyco and Nortec security panels. Integrate
+                    Implement web based security video stream relay. Write integration code on Tyco and Nortek security panels. Integrate
                     with HTTPS/REST, TCP and UDP based Services. Message Queue Internet of Things architecture. AWS Platform. Nodejs, C++ WebRTC, RabbitMQ.
                   </div>
 
