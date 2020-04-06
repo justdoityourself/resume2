@@ -338,7 +338,7 @@
                   <div style='margin:24px;font-size:12px;color:black;overflow-wrap: break-word;'>
                     Using C++, MFC and the Windows Win32 API, I designed and developed a program that heuristically  repaired damage to a windows system 
                     that was preventing it from booting. This required manipulation of the Registry, System Drivers, Boot Sectors and boot loader files.
-                    Support for both MBR and GPT, boot.ini and ntldr and later bootmgr and BCD database. Driver installation via INF files.
+                    Support for both MBR and GPT, boot.ini and NTLDR and later BOOTMGR and BCD database. Driver installation via INF files.
                     Knowledge of Windows driver architecture. Driver Classes, Upper and Lower Filters. Blue Screen Troubleshooting. Crash Dump Debugging.
                   </div>
 
